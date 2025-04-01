@@ -24,7 +24,7 @@ This project leverages Apache Airflow to build a pipeline that integrates a stoc
    AIRFLOW_UID=50000
    ```
 
-2. **Start the Airflow services**
+2. **Start the Airflow services**  
     2.1 Run the following command to start the services using Docker Compose:
     ```bash 
     docker-compose up -d
